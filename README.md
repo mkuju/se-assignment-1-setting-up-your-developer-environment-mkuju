@@ -52,3 +52,10 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Expected deliverables
+The following document contains the steps to download and set up the different applications and their screenshots for the questions asked.
+https://docs.google.com/document/d/1GEF7DPVWXm7bvOIVSj4yNWnxPJtp5_om1lVxY9wkIJQ/edit?usp=sharing
+- This the is github repository of a sample project initialized with Git
+https://github.com/mkuju/project-sample.git
+-The documents includes a reflection of the challenges and how they were solved 
